@@ -1,0 +1,9 @@
+target
+.DS_Store
+*/.snfoundry_cache/**
+.snfoundry_cache/**
+
+profile.pb.gz
+.env
+node_modules
+sender-token-app
